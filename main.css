@@ -14,7 +14,6 @@ header {
   border-bottom: 16px solid #341f97;
   text-transform: uppercase;
   font-style: italic;
-  text-shadow: 0px 3px 5px #000;
 }
 
 header button {
@@ -66,7 +65,6 @@ ul li {
 }
 
 ul li img {
-  max-height: 280px;
   width: 100%;
 }
 
